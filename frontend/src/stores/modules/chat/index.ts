@@ -32,7 +32,7 @@ export const useChatStore = defineStore(
         label: 'Cloudflare',
       },
       {
-        baseUrl: location.origin,
+        baseUrl: 'https://fuwu.dreamzhm519.eu.org/',
         label: '本站',
       },
       {
